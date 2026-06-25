@@ -1,6 +1,32 @@
 # magical-galaxy
 25 June 2026
+My first Three.js project exploring interactive 3D graphics.
 
-This is my first Three.js project. I built it to learn the fundamentals of 3D graphics and web development. I used online tutorials, AI assistance, and guidance from a friend to understand how the project works while modifying and experimenting with the code myself.
+## About
 
-My goal wasn't to create a perfect galaxy, but to learn how Three.js, JavaScript, and interactive graphics work. This project marks the beginning of my programming portfolio, and I look forward to improving it as my skills grow.
+This project was created to learn the fundamentals of Three.js, JavaScript, and interactive web graphics. I used tutorials, AI assistance, and guidance from a friend while experimenting with and modifying the code to understand how it works.
+
+## Technologies
+
+- Three.js
+- JavaScript
+- HTML5
+- CSS3
+
+## Features
+
+- Animated galaxy
+- Particle system
+- 3D rendering
+
+## Future Improvements
+
+- Realistic nebulae
+- Black hole
+- Bloom lighting
+- Camera fly-through
+- Shooting stars
+
+## Author
+
+Hiya (Lotus2809)
